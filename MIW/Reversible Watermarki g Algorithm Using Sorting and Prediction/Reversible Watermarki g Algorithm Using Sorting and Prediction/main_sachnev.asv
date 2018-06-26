@@ -1,0 +1,50 @@
+clc
+close all
+clear all
+originalImage = imread('barbara.pgm');
+% originalImage = rgb2gray(imread('lena.tiff'));
+% originalImage = rgb2gray(imread('jet.tiff'));
+% originalImage = rgb2gray(imread('baboon512.tif'));
+% originalImage = rgb2gray(imread('peppers.tiff'));
+% originalImage = rgb2gray(imread('sailboat.tiff'));
+% originalImage = imread('boat.tiff');
+originalImage = rgb2gray(imread('Tiffany.tiff'));
+% originalImage = imread('Man.tiff');
+% originalImage = imread('man.tif');
+% originalImage = imread('micro23.pgm');
+% originalImage=imresize(imread('Man.tiff'), [512 512]);
+% originalImage = rgb2gray(imread('Girl.tiff'));
+% originalImage=imresize(imread('Airplane (U-2).tiff'), [512 512]);
+% originalImage = imread('elaine.512.tiff');
+% originalImage = rgb2gray(imread('kodim15.png'));
+
+bpp=0.05:0.05:0.95;
+
+
+figure(1)
+imshow(originalImage)
+
+% originalImage = imresize(originalImage, [512 512]);
+originalImage = double(originalImage);
+% originalImage(originalImage>253)=253;
+figure(2)
+hist(originalImage(:),0:255) 
+
+tic
+TpTnpsnr1 = sachnev(originalImage,bpp);
+toc
+
+figure(3)
+plot(TpTnpsnr1(:,1),TpTnpsnr1(:,2),'r.-'),grid on
+legend('sachnev','sachnev pvdt',1)
+xlabel('Embedding Rate (BPP)','FontSize',11)
+ylabel('PSNR(dB)','FontSize',11)
+
+
+figure(4)
+plot(TpTnpsnr1(:,1),TpTnpsnr1(:,5),'r.-'),grid on
+legend('sachnev','sachnev pvdt',2)
+xlabel('Embedding Rate (BPP)','FontSize',11)
+ylabel('Location map (bits)','FontSize',11)
+
+

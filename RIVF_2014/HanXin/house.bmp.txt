@@ -1,0 +1,87 @@
+ 86.00199435	   0.99969969	 Rut duoc Copyright in UIT	  0.99634931
+ house_AFFINE_1.bmp	   0.99892680	 Rut duoc Copyright in UIT	  0.99688686
+ house_AFFINE_2.bmp	   0.98256617	 Rut duoc Copyright in UIT	  0.97366168
+ house_AFFINE_3.bmp	   0.99852539	 Rut duoc Copyright in UIT	  0.99523032
+ house_AFFINE_4.bmp	   0.98681174	 Rut duoc Copyright in UIT	  0.98760785
+ house_AFFINE_5.bmp	   0.99712381	 Rut duoc Copyright in UIT	  0.99541778
+ house_AFFINE_6.bmp	   0.98996072	 Rut duoc Copyright in UIT	  0.98047314
+ house_AFFINE_7.bmp	   0.99160611	 Rut duoc Copyright in UIT	  0.99236868
+ house_AFFINE_8.bmp	   0.98920172	 Rut duoc Copyright in UIT	  0.98985780
+ house_CONV_1.bmp	   0.88963989	   0.87003931
+ house_CONV_2.bmp	   0.99626243	 Rut duoc Copyright in UIT	  0.99839044
+ house_JPEG_100.bmp	   0.99944482	 Rut duoc Copyright in UIT	  0.99634875
+ house_JPEG_15.bmp	   0.90226863	   0.92986779
+ house_JPEG_20.bmp	   0.90422053	   0.92991694
+ house_JPEG_25.bmp	   0.91296589	   0.94032277
+ house_JPEG_30.bmp	   0.93793044	   0.95479317
+ house_JPEG_35.bmp	   0.94025688	   0.95836315
+ house_JPEG_40.bmp	   0.95644666	 Rut duoc Copyright in UIT	  0.95766528
+ house_JPEG_50.bmp	   0.97052927	 Rut duoc Copyright in UIT	  0.97026244
+ house_JPEG_60.bmp	   0.97949230	 Rut duoc Copyright in UIT	  0.98688610
+ house_JPEG_70.bmp	   0.98665907	 Rut duoc Copyright in UIT	  0.98797375
+ house_JPEG_80.bmp	   0.99220840	 Rut duoc Copyright in UIT	  0.99369681
+ house_JPEG_90.bmp	   0.99530395	 Rut duoc Copyright in UIT	  0.99479242
+ house_LATESTRNDDIST_0.95.bmp	   0.99713387	 Rut duoc Copyright in UIT	  0.99517039
+ house_LATESTRNDDIST_1.05.bmp	   0.99746693	 Rut duoc Copyright in UIT	  0.99512382
+ house_LATESTRNDDIST_1.1.bmp	   0.99913646	 Rut duoc Copyright in UIT	  0.99744418
+ house_LATESTRNDDIST_1.bmp	   0.99835643	 Rut duoc Copyright in UIT	  0.99596125
+ house_MEDIAN_3.bmp	   0.99630598	 Rut duoc Copyright in UIT	  0.98811595
+ house_MEDIAN_5.bmp	   0.99487484	 Rut duoc Copyright in UIT	  0.98126358
+ house_MEDIAN_7.bmp	   0.99707477	 Rut duoc Copyright in UIT	  0.98780318
+ house_MEDIAN_9.bmp	   0.99857770	 Rut duoc Copyright in UIT	  0.98406114
+ house_NOISE_0.bmp	   0.99968423	 Rut duoc Copyright in UIT	  0.99629051
+ house_NOISE_100.bmp	   0.98980553	 Rut duoc Copyright in UIT	  0.98673180
+ house_NOISE_20.bmp	   0.99009927	 Rut duoc Copyright in UIT	  0.98951982
+ house_NOISE_40.bmp	   0.99203231	 Rut duoc Copyright in UIT	  0.97515900
+ house_NOISE_60.bmp	   0.99078442	 Rut duoc Copyright in UIT	  0.98341741
+ house_NOISE_80.bmp	   0.98948569	 Rut duoc Copyright in UIT	  0.97786707
+ house_PSNR_0.bmp	   0.99969969	 Rut duoc Copyright in UIT	  0.99634931
+ house_PSNR_10.bmp	   0.99967683	 Rut duoc Copyright in UIT	  0.99622967
+ house_PSNR_100.bmp	   0.99970349	 Rut duoc Copyright in UIT	  0.99686583
+ house_PSNR_20.bmp	   0.99965450	 Rut duoc Copyright in UIT	  0.99612685
+ house_PSNR_30.bmp	   0.99966432	 Rut duoc Copyright in UIT	  0.99607026
+ house_PSNR_40.bmp	   0.99969039	 Rut duoc Copyright in UIT	  0.99611774
+ house_PSNR_50.bmp	   0.99972064	 Rut duoc Copyright in UIT	  0.99623086
+ house_PSNR_60.bmp	   0.99974570	 Rut duoc Copyright in UIT	  0.99636031
+ house_PSNR_70.bmp	   0.99975949	 Rut duoc Copyright in UIT	  0.99649312
+ house_PSNR_80.bmp	   0.99975153	 Rut duoc Copyright in UIT	  0.99664291
+ house_PSNR_90.bmp	   0.99972203	 Rut duoc Copyright in UIT	  0.99673488
+ house_RESC_110.bmp	   0.88726627	 Rut duoc Copyright in UIT	  0.83375988
+ house_RESC_150.bmp	   0.65162245	   0.52350474
+ house_RESC_200.bmp	   0.59362016	   0.45614324
+ house_RNDDIST_0.95.bmp	   0.99630067	 Rut duoc Copyright in UIT	  0.99794465
+ house_RNDDIST_1.05.bmp	   0.99817785	 Rut duoc Copyright in UIT	  0.99729469
+ house_RNDDIST_1.1.bmp	   0.99789416	 Rut duoc Copyright in UIT	  0.99634646
+ house_RNDDIST_1.bmp	   0.99685619	 Rut duoc Copyright in UIT	  0.99686132
+ house_ROTCROP_-0.25.bmp	   0.99939797	 Rut duoc Copyright in UIT	  0.99194647
+ house_ROTCROP_0.25.bmp	   0.99862892	 Rut duoc Copyright in UIT	  0.99493619
+ house_ROTSCALE_-0.25.bmp	   0.99870197	 Rut duoc Copyright in UIT	  0.99625699
+ house_ROTSCALE_-0.5.bmp	   0.99935034	 Rut duoc Copyright in UIT	  0.99786567
+ house_ROTSCALE_-0.75.bmp	   0.99945353	 Rut duoc Copyright in UIT	  0.99766968
+ house_ROTSCALE_-1.bmp	   0.99958327	 Rut duoc Copyright in UIT	  0.99780746
+ house_ROTSCALE_-2.bmp	   0.99928085	 Rut duoc Copyright in UIT	  0.99654217
+ house_ROTSCALE_0.25.bmp	   0.99908631	 Rut duoc Copyright in UIT	  0.99782852
+ house_ROTSCALE_0.5.bmp	   0.99947328	 Rut duoc Copyright in UIT	  0.99331339
+ house_ROTSCALE_0.75.bmp	   0.99946711	 Rut duoc Copyright in UIT	  0.99190231
+ house_ROTSCALE_1.bmp	   0.99933265	 Rut duoc Copyright in UIT	  0.99680615
+ house_ROTSCALE_2.bmp	   0.99876980	 Rut duoc Copyright in UIT	  0.99681347
+ house_ROT_-0.25.bmp	   0.99828424	 Rut duoc Copyright in UIT	  0.99689747
+ house_ROT_-0.5.bmp	   0.99795995	 Rut duoc Copyright in UIT	  0.99399731
+ house_ROT_-0.75.bmp	   0.99357552	 Rut duoc Copyright in UIT	  0.99327025
+ house_ROT_-1.bmp	   0.99058081	 Rut duoc Copyright in UIT	  0.97688807
+ house_ROT_-2.bmp	   0.96742055	 Rut duoc Copyright in UIT	  0.94090344
+ house_ROT_0.25.bmp	   0.99917360	 Rut duoc Copyright in UIT	  0.99783945
+ house_ROT_0.5.bmp	   0.99638243	 Rut duoc Copyright in UIT	  0.99079450
+ house_ROT_0.75.bmp	   0.99506138	 Rut duoc Copyright in UIT	  0.99494767
+ house_ROT_1.bmp	   0.99013337	 Rut duoc Copyright in UIT	  0.99157466
+ house_ROT_10.bmp	   0.77862236	   0.65970976
+ house_ROT_15.bmp	   0.73920123	   0.56979388
+ house_ROT_2.bmp	   0.97097806	 Rut duoc Copyright in UIT	  0.96744589
+ house_ROT_30.bmp	   0.68145304	   0.54388793
+ house_ROT_45.bmp	   0.66880910	   0.55680204
+ house_ROT_5.bmp	   0.89004528	 Rut duoc Copyright in UIT	  0.80753432
+ house_ROT_90.bmp	   0.99967966	 Rut duoc Copyright in UIT	  0.99731216
+ house_SS_1.bmp	   0.47885845	   0.47130729
+ house_SS_2.bmp	   0.47885845	   0.47131353
+ house_SS_3.bmp	   0.47885845	   0.47131353
+ 

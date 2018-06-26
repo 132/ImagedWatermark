@@ -1,0 +1,87 @@
+ 94.20492360	   0.99579926	 Rut duoc Copyright in UIT	  0.99207823
+ pepper_AFFINE_1.bmp	   0.99438303	 Rut duoc Copyright in UIT	  0.99135809
+ pepper_AFFINE_2.bmp	   0.93085807	 Rut duoc Copyright in UIT	  0.96513485
+ pepper_AFFINE_3.bmp	   0.98871404	 Rut duoc Copyright in UIT	  0.99655762
+ pepper_AFFINE_4.bmp	   0.92424397	 Rut duoc Copyright in UIT	  0.95707579
+ pepper_AFFINE_5.bmp	   0.97204068	 Rut duoc Copyright in UIT	  0.98485199
+ pepper_AFFINE_6.bmp	   0.93101368	   0.94805197
+ pepper_AFFINE_7.bmp	   0.94458699	 Rut duoc Copyright in UIT	  0.94423034
+ pepper_AFFINE_8.bmp	   0.93048468	 Rut duoc Copyright in UIT	  0.96666826
+ pepper_CONV_1.bmp	   0.99561878	 Rut duoc Copyright in UIT	  0.98618841
+ pepper_CONV_2.bmp	   0.99541165	 Rut duoc Copyright in UIT	  0.99612215
+ pepper_JPEG_100.bmp	   0.99737010	 Rut duoc Copyright in UIT	  0.99418827
+ pepper_JPEG_15.bmp	   0.99265376	   0.96973452
+ pepper_JPEG_20.bmp	   0.99637075	   0.98610852
+ pepper_JPEG_25.bmp	   0.99455981	 Rut duoc Copyright in UIT	  0.98644589
+ pepper_JPEG_30.bmp	   0.99508458	 Rut duoc Copyright in UIT	  0.98927824
+ pepper_JPEG_35.bmp	   0.99554697	 Rut duoc Copyright in UIT	  0.99275835
+ pepper_JPEG_40.bmp	   0.99690441	 Rut duoc Copyright in UIT	  0.99106215
+ pepper_JPEG_50.bmp	   0.99751647	 Rut duoc Copyright in UIT	  0.99646680
+ pepper_JPEG_60.bmp	   0.99786201	 Rut duoc Copyright in UIT	  0.99657620
+ pepper_JPEG_70.bmp	   0.99829048	 Rut duoc Copyright in UIT	  0.99498670
+ pepper_JPEG_80.bmp	   0.99657695	 Rut duoc Copyright in UIT	  0.99609158
+ pepper_JPEG_90.bmp	   0.99642260	 Rut duoc Copyright in UIT	  0.99552003
+ pepper_LATESTRNDDIST_0.95.bmp	   0.99733828	 Rut duoc Copyright in UIT	  0.99028882
+ pepper_LATESTRNDDIST_1.05.bmp	   0.99646378	 Rut duoc Copyright in UIT	  0.99092219
+ pepper_LATESTRNDDIST_1.1.bmp	   0.99793870	 Rut duoc Copyright in UIT	  0.98815756
+ pepper_LATESTRNDDIST_1.bmp	   0.99782487	 Rut duoc Copyright in UIT	  0.99498392
+ pepper_MEDIAN_3.bmp	   0.99731175	 Rut duoc Copyright in UIT	  0.99730444
+ pepper_MEDIAN_5.bmp	   0.99624964	 Rut duoc Copyright in UIT	  0.99372844
+ pepper_MEDIAN_7.bmp	   0.99560927	 Rut duoc Copyright in UIT	  0.98944473
+ pepper_MEDIAN_9.bmp	   0.99715191	 Rut duoc Copyright in UIT	  0.98745518
+ pepper_NOISE_0.bmp	   0.99513823	 Rut duoc Copyright in UIT	  0.99191452
+ pepper_NOISE_100.bmp	   0.99622958	   0.99469422
+ pepper_NOISE_20.bmp	   0.99672358	   0.98527483
+ pepper_NOISE_40.bmp	   0.99699166	   0.99655375
+ pepper_NOISE_60.bmp	   0.99240740	   0.99030480
+ pepper_NOISE_80.bmp	   0.99523154	   0.99443352
+ pepper_PSNR_0.bmp	   0.99579926	 Rut duoc Copyright in UIT	  0.99207823
+ pepper_PSNR_10.bmp	   0.99557643	 Rut duoc Copyright in UIT	  0.99201321
+ pepper_PSNR_100.bmp	   0.99620387	 Rut duoc Copyright in UIT	  0.99191811
+ pepper_PSNR_20.bmp	   0.99564697	 Rut duoc Copyright in UIT	  0.99195234
+ pepper_PSNR_30.bmp	   0.99627287	 Rut duoc Copyright in UIT	  0.99189471
+ pepper_PSNR_40.bmp	   0.99704028	 Rut duoc Copyright in UIT	  0.99183967
+ pepper_PSNR_50.bmp	   0.99513823	 Rut duoc Copyright in UIT	  0.99191452
+ pepper_PSNR_60.bmp	   0.99538290	 Rut duoc Copyright in UIT	  0.99189947
+ pepper_PSNR_70.bmp	   0.99562824	 Rut duoc Copyright in UIT	  0.99189079
+ pepper_PSNR_80.bmp	   0.99583671	 Rut duoc Copyright in UIT	  0.99188838
+ pepper_PSNR_90.bmp	   0.99600416	 Rut duoc Copyright in UIT	  0.99189202
+ pepper_RESC_110.bmp	   0.73385904	   0.66795065
+ pepper_RESC_150.bmp	   0.55481368	   0.45000611
+ pepper_RESC_200.bmp	   0.52389586	   0.41896266
+ pepper_RNDDIST_0.95.bmp	   0.99802049	 Rut duoc Copyright in UIT	  0.99701066
+ pepper_RNDDIST_1.05.bmp	   0.99589272	 Rut duoc Copyright in UIT	  0.99516582
+ pepper_RNDDIST_1.1.bmp	   0.99658114	 Rut duoc Copyright in UIT	  0.99374813
+ pepper_RNDDIST_1.bmp	   0.99698397	 Rut duoc Copyright in UIT	  0.99444356
+ pepper_ROTCROP_-0.25.bmp	   0.99602814	 Rut duoc Copyright in UIT	  0.99001558
+ pepper_ROTCROP_0.25.bmp	   0.99628334	 Rut duoc Copyright in UIT	  0.99461657
+ pepper_ROTSCALE_-0.25.bmp	   0.99272996	 Rut duoc Copyright in UIT	  0.99297553
+ pepper_ROTSCALE_-0.5.bmp	   0.99757042	 Rut duoc Copyright in UIT	  0.99636029
+ pepper_ROTSCALE_-0.75.bmp	   0.99682596	 Rut duoc Copyright in UIT	  0.99541197
+ pepper_ROTSCALE_-1.bmp	   0.99804485	 Rut duoc Copyright in UIT	  0.99535183
+ pepper_ROTSCALE_-2.bmp	   0.99640862	 Rut duoc Copyright in UIT	  0.99402995
+ pepper_ROTSCALE_0.25.bmp	   0.99597720	 Rut duoc Copyright in UIT	  0.99461244
+ pepper_ROTSCALE_0.5.bmp	   0.99658887	 Rut duoc Copyright in UIT	  0.99579320
+ pepper_ROTSCALE_0.75.bmp	   0.99719873	 Rut duoc Copyright in UIT	  0.99577123
+ pepper_ROTSCALE_1.bmp	   0.99613578	 Rut duoc Copyright in UIT	  0.99402282
+ pepper_ROTSCALE_2.bmp	   0.99756114	 Rut duoc Copyright in UIT	  0.99548519
+ pepper_ROT_-0.25.bmp	   0.98647381	 Rut duoc Copyright in UIT	  0.99370742
+ pepper_ROT_-0.5.bmp	   0.97882662	 Rut duoc Copyright in UIT	  0.97974796
+ pepper_ROT_-0.75.bmp	   0.97844746	 Rut duoc Copyright in UIT	  0.97358300
+ pepper_ROT_-1.bmp	   0.93620038	   0.97296030
+ pepper_ROT_-2.bmp	   0.88068492	   0.90650631
+ pepper_ROT_0.25.bmp	   0.98688819	 Rut duoc Copyright in UIT	  0.99294017
+ pepper_ROT_0.5.bmp	   0.98464121	 Rut duoc Copyright in UIT	  0.99407266
+ pepper_ROT_0.75.bmp	   0.96496904	 Rut duoc Copyright in UIT	  0.98901810
+ pepper_ROT_1.bmp	   0.95178061	 Rut duoc Copyright in UIT	  0.95781504
+ pepper_ROT_10.bmp	   0.65048906	   0.60909715
+ pepper_ROT_15.bmp	   0.61393097	   0.55597694
+ pepper_ROT_2.bmp	   0.88120395	   0.85407700
+ pepper_ROT_30.bmp	   0.57772976	   0.49625407
+ pepper_ROT_45.bmp	   0.59584410	   0.45156578
+ pepper_ROT_5.bmp	   0.74322311	   0.74790420
+ pepper_ROT_90.bmp	   0.99857295	 Rut duoc Copyright in UIT	  0.99650632
+ pepper_SS_1.bmp	   0.47885845	   0.51193386
+ pepper_SS_2.bmp	   0.47885845	   0.51166291
+ pepper_SS_3.bmp	   0.47885845	   0.51166291
+ 

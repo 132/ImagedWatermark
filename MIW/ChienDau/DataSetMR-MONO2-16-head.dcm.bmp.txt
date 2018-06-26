@@ -1,0 +1,3 @@
+average filtering	   0.78160562	  26.32032698
+ motion blur	   0.72823011	  20.83421549
+ 

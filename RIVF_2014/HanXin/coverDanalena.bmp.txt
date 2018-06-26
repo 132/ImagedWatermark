@@ -1,0 +1,11 @@
+average filtering	   0.98516462	   0.99467922	   0.99254199	   0.99818708
+ motion blur	   0.97855880	   0.95087935	 Rut duoc-Copyright in UIT 	  0.97993063	   0.96359223
+ hisogram equa	   0.99298851	   0.98788412	 Rut duoc-Copyright in UIT 	  0.99505433	   0.99016427
+ median fileter	   0.99218446	   0.99504017	 Rut duoc-Copyright in UIT 	  0.99594881	   0.99840901
+ Sharpen	   0.98852887	   0.98385049	 Rut duoc-Copyright in UIT 	  0.99219835	   0.98477019
+ resize	   0.98006543	   0.98196852	   0.98606513	   0.97712451
+ rotation	   0.98966379	   0.98420265	 Rut duoc-Copyright in UIT 	  0.99309993	   0.97991650
+ contrast adjustment	   0.99596374	   0.99237343	 Rut duoc-Copyright in UIT 	  0.99733900	   0.99450475
+ Crop1/4	   0.63849598	   0.46637555	   0.47885845	   0.35837001
+ JPEG 20	   0.94978312	   0.94447969	 Rut duoc-Copyright in UIT 	  0.97781930	   0.98193372
+ 

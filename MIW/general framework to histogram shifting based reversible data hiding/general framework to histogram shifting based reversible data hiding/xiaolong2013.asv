@@ -1,0 +1,63 @@
+function TpTnpsnr = xiaolong2013(originalImage,method,bpp)
+  
+fhandle1=@find_t_s; fhandle2=@creating_map; fhandle3=@embed_I1; fhandle4=@embed_I2; fhandle5=@embed_I3; fhandle6=@layers;
+  
+originalImage = double(originalImage);
+maxT=80;
+Tnn=[1;1]*(-1:-1:-maxT);
+Tpp=[1;1]*(1:maxT-1);
+TpTn(:,1:2)=[[0;0;Tpp(:);maxT] [0;Tnn(:)]];
+TpTnpsnr=ones(length(bpp),4)*NaN;
+kb=0;
+% tL=zeros(1,9);
+tL=ones(1,9);
+% while Ch_LL==0 && kb<length(bpp)
+while kb<length(bpp)  
+      Ch_LL=0;
+      kb=kb+1;
+      disp([method,'        ',num2str(bpp(kb),'%1.2f'),' ','bpp'])
+      Hostimage=originalImage;  Pload=randint(1,round(bpp(kb)*numel(originalImage)/9),[0 1]);
+      NL=length(Pload);   L=1;  TM=0;
+      tL=zeros(1,9);
+      tStart = tic;  
+%       tL=tL-1;
+      while Ch_LL==0 && L<=9
+           Ch_t=0; 
+%            [c r d s uh u] = layers(Hostimage,L); K=size(u,1);
+           [c r d s uh u] = feval(fhandle6,Hostimage,L); K=size(u,1);
+           while tL(L)<size(TpTn,1) && Ch_t==0
+%                tic
+                tL(L)=tL(L)+1;
+                tp=TpTn(tL(L),1); tn=TpTn(tL(L),2);
+                [Ch_t,ss,CM] = feval(find_t_s,d,uh,s,tp,tn,NL);
+                if Ch_t==1
+                   map = feval(fhandle2,d,uh,tp,tn,CM); hdmap=[dec2binvec(tL(L),8) dec2binvec(ss,8) dec2binvec(NL,20) map];
+                   [LSB,Hostimage,CPL] = feval(fhandle3,d,uh,s,r,c,tp,tn,ss,hdmap,Pload,Hostimage);
+                   [Hostimage,k2] = feval(fhandle4,d,uh,s,r,c,tp,tn,ss,Hostimage,LSB);
+                   [Hostimage] = feval(fhandle5,d,uh,s,r,c,tp,tn,ss,Pload,Hostimage,CPL,k2);
+                   TM=TM+CM*ceil(log2(K+1));
+                end
+%                  toc
+           end
+           if tL(L)==size(TpTn,1)
+              Ch_LL=1;
+           end
+           if Ch_t==1
+              L=L+1;
+           end
+       end
+       if L==10 
+          Mean2err=sum(sum((Hostimage-originalImage).^2))/(numel(originalImage));
+          sdf=255^2./(Mean2err);
+          PSNR = 10*log10(sdf);
+          TpTnpsnr(kb,1)=bpp(kb);
+          TpTnpsnr(kb,2)=PSNR;
+          TpTnpsnr(kb,3)=TM;
+          TpTnpsnr(kb,4)= toc(tStart);
+       elseif Ch_LL==1
+          TpTnpsnr(kb,1)=bpp(kb); 
+          TpTnpsnr(kb,4)= toc(tStart); 
+       end
+       
+ end
+% TpTnpsnr(kb,4)=toc;       

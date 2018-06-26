@@ -1,0 +1,87 @@
+ 91.10433230	   0.99884277	 Rut duoc Copyright in UIT	  0.99174583
+ pirate_AFFINE_1.bmp	   0.99237701	 Rut duoc Copyright in UIT	  0.94176825
+ pirate_AFFINE_2.bmp	   0.94583917	 Rut duoc Copyright in UIT	  0.89536150
+ pirate_AFFINE_3.bmp	   0.98901130	 Rut duoc Copyright in UIT	  0.97380485
+ pirate_AFFINE_4.bmp	   0.94219082	 Rut duoc Copyright in UIT	  0.85687286
+ pirate_AFFINE_5.bmp	   0.98331851	 Rut duoc Copyright in UIT	  0.94704762
+ pirate_AFFINE_6.bmp	   0.94708743	 Rut duoc Copyright in UIT	  0.85997306
+ pirate_AFFINE_7.bmp	   0.95714961	 Rut duoc Copyright in UIT	  0.85663052
+ pirate_AFFINE_8.bmp	   0.94416341	 Rut duoc Copyright in UIT	  0.91776000
+ pirate_CONV_1.bmp	   0.99620021	 Rut duoc Copyright in UIT	  0.95385033
+ pirate_CONV_2.bmp	   0.99597923	 Rut duoc Copyright in UIT	  0.98840190
+ pirate_JPEG_100.bmp	   0.99795414	 Rut duoc Copyright in UIT	  0.98912857
+ pirate_JPEG_15.bmp	   0.99326456	   0.96175663
+ pirate_JPEG_20.bmp	   0.99650504	 Rut duoc Copyright in UIT	  0.97647357
+ pirate_JPEG_25.bmp	   0.99167250	 Rut duoc Copyright in UIT	  0.98722621
+ pirate_JPEG_30.bmp	   0.99328352	 Rut duoc Copyright in UIT	  0.96728112
+ pirate_JPEG_35.bmp	   0.99631127	 Rut duoc Copyright in UIT	  0.98311952
+ pirate_JPEG_40.bmp	   0.99649867	 Rut duoc Copyright in UIT	  0.97019346
+ pirate_JPEG_50.bmp	   0.99834309	 Rut duoc Copyright in UIT	  0.97870346
+ pirate_JPEG_60.bmp	   0.99786333	 Rut duoc Copyright in UIT	  0.98925265
+ pirate_JPEG_70.bmp	   0.99848402	 Rut duoc Copyright in UIT	  0.98359544
+ pirate_JPEG_80.bmp	   0.99836250	 Rut duoc Copyright in UIT	  0.99137868
+ pirate_JPEG_90.bmp	   0.99614879	 Rut duoc Copyright in UIT	  0.98424997
+ pirate_LATESTRNDDIST_0.95.bmp	   0.99752192	 Rut duoc Copyright in UIT	  0.98784261
+ pirate_LATESTRNDDIST_1.05.bmp	   0.99820672	 Rut duoc Copyright in UIT	  0.98884065
+ pirate_LATESTRNDDIST_1.1.bmp	   0.99803929	 Rut duoc Copyright in UIT	  0.97842977
+ pirate_LATESTRNDDIST_1.bmp	   0.99714048	 Rut duoc Copyright in UIT	  0.94915503
+ pirate_MEDIAN_3.bmp	   0.99708494	 Rut duoc Copyright in UIT	  0.99298187
+ pirate_MEDIAN_5.bmp	   0.99781780	 Rut duoc Copyright in UIT	  0.98111062
+ pirate_MEDIAN_7.bmp	   0.99882041	 Rut duoc Copyright in UIT	  0.98495820
+ pirate_MEDIAN_9.bmp	   0.99753596	 Rut duoc Copyright in UIT	  0.98180732
+ pirate_NOISE_0.bmp	   0.99635928	 Rut duoc Copyright in UIT	  0.98113125
+ pirate_NOISE_100.bmp	   0.99747243	   0.99334960
+ pirate_NOISE_20.bmp	   0.99610562	   0.98721275
+ pirate_NOISE_40.bmp	   0.99610090	   0.97982368
+ pirate_NOISE_60.bmp	   0.99554945	   0.94949829
+ pirate_NOISE_80.bmp	   0.99093588	   0.96913889
+ pirate_PSNR_0.bmp	   0.99668727	 Rut duoc Copyright in UIT	  0.98586924
+ pirate_PSNR_10.bmp	   0.99660522	 Rut duoc Copyright in UIT	  0.98498196
+ pirate_PSNR_100.bmp	   0.99687895	 Rut duoc Copyright in UIT	  0.97616909
+ pirate_PSNR_20.bmp	   0.99651276	 Rut duoc Copyright in UIT	  0.98409635
+ pirate_PSNR_30.bmp	   0.99652468	 Rut duoc Copyright in UIT	  0.98312688
+ pirate_PSNR_40.bmp	   0.99644538	 Rut duoc Copyright in UIT	  0.98214266
+ pirate_PSNR_50.bmp	   0.99635928	 Rut duoc Copyright in UIT	  0.98113125
+ pirate_PSNR_60.bmp	   0.99626694	 Rut duoc Copyright in UIT	  0.98010145
+ pirate_PSNR_70.bmp	   0.99620048	 Rut duoc Copyright in UIT	  0.97906522
+ pirate_PSNR_80.bmp	   0.99621017	 Rut duoc Copyright in UIT	  0.97803815
+ pirate_PSNR_90.bmp	   0.99654431	 Rut duoc Copyright in UIT	  0.97704633
+ pirate_RESC_110.bmp	   0.78522764	   0.54201342
+ pirate_RESC_150.bmp	   0.57476144	   0.41021855
+ pirate_RESC_200.bmp	   0.53729991	   0.39090995
+ pirate_RNDDIST_0.95.bmp	   0.99657303	 Rut duoc Copyright in UIT	  0.95725279
+ pirate_RNDDIST_1.05.bmp	   0.99714994	 Rut duoc Copyright in UIT	  0.97951599
+ pirate_RNDDIST_1.1.bmp	   0.99772479	 Rut duoc Copyright in UIT	  0.99056356
+ pirate_RNDDIST_1.bmp	   0.99662800	 Rut duoc Copyright in UIT	  0.98380317
+ pirate_ROTCROP_-0.25.bmp	   0.99758718	 Rut duoc Copyright in UIT	  0.97763924
+ pirate_ROTCROP_0.25.bmp	   0.99786210	 Rut duoc Copyright in UIT	  0.98455597
+ pirate_ROTSCALE_-0.25.bmp	   0.99703172	 Rut duoc Copyright in UIT	  0.97701802
+ pirate_ROTSCALE_-0.5.bmp	   0.99684238	 Rut duoc Copyright in UIT	  0.98651143
+ pirate_ROTSCALE_-0.75.bmp	   0.99621097	 Rut duoc Copyright in UIT	  0.97814450
+ pirate_ROTSCALE_-1.bmp	   0.99820569	 Rut duoc Copyright in UIT	  0.98966414
+ pirate_ROTSCALE_-2.bmp	   0.99641574	 Rut duoc Copyright in UIT	  0.98905292
+ pirate_ROTSCALE_0.25.bmp	   0.99596865	 Rut duoc Copyright in UIT	  0.98596242
+ pirate_ROTSCALE_0.5.bmp	   0.99718151	 Rut duoc Copyright in UIT	  0.98945652
+ pirate_ROTSCALE_0.75.bmp	   0.99684414	 Rut duoc Copyright in UIT	  0.99130741
+ pirate_ROTSCALE_1.bmp	   0.99642618	 Rut duoc Copyright in UIT	  0.98656025
+ pirate_ROTSCALE_2.bmp	   0.99793289	 Rut duoc Copyright in UIT	  0.98889345
+ pirate_ROT_-0.25.bmp	   0.99002384	 Rut duoc Copyright in UIT	  0.98761275
+ pirate_ROT_-0.5.bmp	   0.98052803	 Rut duoc Copyright in UIT	  0.91268686
+ pirate_ROT_-0.75.bmp	   0.98252630	 Rut duoc Copyright in UIT	  0.90056754
+ pirate_ROT_-1.bmp	   0.94976874	 Rut duoc Copyright in UIT	  0.91135686
+ pirate_ROT_-2.bmp	   0.90715109	 Rut duoc Copyright in UIT	  0.77837864
+ pirate_ROT_0.25.bmp	   0.99395262	 Rut duoc Copyright in UIT	  0.97121646
+ pirate_ROT_0.5.bmp	   0.98624238	 Rut duoc Copyright in UIT	  0.96977947
+ pirate_ROT_0.75.bmp	   0.97517717	 Rut duoc Copyright in UIT	  0.97804538
+ pirate_ROT_1.bmp	   0.96629237	 Rut duoc Copyright in UIT	  0.83196449
+ pirate_ROT_10.bmp	   0.68593214	   0.49959971
+ pirate_ROT_15.bmp	   0.64390770	   0.47042417
+ pirate_ROT_2.bmp	   0.91252927	 Rut duoc Copyright in UIT	  0.69728479
+ pirate_ROT_30.bmp	   0.60676169	   0.42690359
+ pirate_ROT_45.bmp	   0.62543511	   0.40941227
+ pirate_ROT_5.bmp	   0.77963635	   0.60119242
+ pirate_ROT_90.bmp	   0.99848423	 Rut duoc Copyright in UIT	  0.98697907
+ pirate_SS_1.bmp	   0.47885845	   0.47735663
+ pirate_SS_2.bmp	   0.47885845	   0.47730262
+ pirate_SS_3.bmp	   0.47885845	   0.47730262
+ 

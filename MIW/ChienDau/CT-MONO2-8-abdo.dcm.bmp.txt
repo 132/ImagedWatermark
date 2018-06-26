@@ -1,0 +1,114 @@
+Truoc attack PSNR: Inf 
+ CT-MONO2-8-abdo.dcm_AFFINE_1.bmp PSNR: 16.772 NC: 0.824 
+ CT-MONO2-8-abdo.dcm_AFFINE_2.bmp PSNR: 13.272 NC: 0.824 
+ CT-MONO2-8-abdo.dcm_AFFINE_3.bmp PSNR: 18.172 NC: 0.797 
+ CT-MONO2-8-abdo.dcm_AFFINE_4.bmp PSNR: 13.538 NC: 0.836 
+ CT-MONO2-8-abdo.dcm_AFFINE_5.bmp PSNR: 15.827 NC: 0.840 
+ CT-MONO2-8-abdo.dcm_AFFINE_6.bmp PSNR: 13.715 NC: 0.835 
+ CT-MONO2-8-abdo.dcm_AFFINE_7.bmp PSNR: 13.913 NC: 0.809 
+ CT-MONO2-8-abdo.dcm_AFFINE_8.bmp PSNR: 13.937 NC: 0.840 
+ CT-MONO2-8-abdo.dcm_CONV_1.bmp PSNR: 12.219 NC: 0.798 
+ CT-MONO2-8-abdo.dcm_CONV_2.bmp PSNR: 10.044 NC: 0.730 
+ CT-MONO2-8-abdo.dcm_CROP_1.bmp 
+ CT-MONO2-8-abdo.dcm_CROP_10.bmp 
+ CT-MONO2-8-abdo.dcm_CROP_15.bmp 
+ CT-MONO2-8-abdo.dcm_CROP_20.bmp 
+ CT-MONO2-8-abdo.dcm_CROP_25.bmp 
+ CT-MONO2-8-abdo.dcm_CROP_50.bmp 
+ CT-MONO2-8-abdo.dcm_CROP_75.bmp 
+ CT-MONO2-8-abdo.dcm_JPEG_100.bmp PSNR: 26.169 NC: 0.708 
+ CT-MONO2-8-abdo.dcm_JPEG_15.bmp PSNR: 23.105 NC: 0.840 
+ CT-MONO2-8-abdo.dcm_JPEG_20.bmp PSNR: 23.936 NC: 0.840 
+ CT-MONO2-8-abdo.dcm_JPEG_25.bmp PSNR: 24.557 NC: 0.839 
+ CT-MONO2-8-abdo.dcm_JPEG_30.bmp PSNR: 24.704 NC: 0.840 
+ CT-MONO2-8-abdo.dcm_JPEG_35.bmp PSNR: 24.944 NC: 0.840 
+ CT-MONO2-8-abdo.dcm_JPEG_40.bmp PSNR: 25.102 NC: 0.837 
+ CT-MONO2-8-abdo.dcm_JPEG_50.bmp PSNR: 25.611 NC: 0.840 
+ CT-MONO2-8-abdo.dcm_JPEG_60.bmp PSNR: 25.580 NC: 0.840 
+ CT-MONO2-8-abdo.dcm_JPEG_70.bmp PSNR: 25.785 NC: 0.840 
+ CT-MONO2-8-abdo.dcm_JPEG_80.bmp PSNR: 25.941 NC: 0.835 
+ CT-MONO2-8-abdo.dcm_JPEG_90.bmp PSNR: 26.088 NC: 0.832 
+ CT-MONO2-8-abdo.dcm_LATESTRNDDIST_0.95.bmp PSNR: 14.245 NC: 0.532 
+ CT-MONO2-8-abdo.dcm_LATESTRNDDIST_1.05.bmp PSNR: 14.037 NC: 0.564 
+ CT-MONO2-8-abdo.dcm_LATESTRNDDIST_1.1.bmp PSNR: 13.935 NC: 0.547 
+ CT-MONO2-8-abdo.dcm_LATESTRNDDIST_1.bmp PSNR: 14.127 NC: 0.559 
+ CT-MONO2-8-abdo.dcm_MEDIAN_3.bmp PSNR: 19.050 NC: 0.836 
+ CT-MONO2-8-abdo.dcm_MEDIAN_5.bmp PSNR: 18.198 NC: 0.837 
+ CT-MONO2-8-abdo.dcm_MEDIAN_7.bmp PSNR: 17.834 NC: 0.840 
+ CT-MONO2-8-abdo.dcm_MEDIAN_9.bmp PSNR: 17.736 NC: 0.840 
+ CT-MONO2-8-abdo.dcm_NOISE_0.bmp PSNR: 26.169 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-8-abdo.dcm_NOISE_100.bmp PSNR: 6.596 NC: 0.672 
+ CT-MONO2-8-abdo.dcm_NOISE_20.bmp PSNR: 11.375 NC: 0.684 
+ CT-MONO2-8-abdo.dcm_NOISE_40.bmp PSNR: 8.790 NC: 0.691 
+ CT-MONO2-8-abdo.dcm_NOISE_60.bmp PSNR: 7.488 NC: 0.697 
+ CT-MONO2-8-abdo.dcm_NOISE_80.bmp PSNR: 6.929 NC: 0.672 
+ CT-MONO2-8-abdo.dcm_PSNR_0.bmp PSNR: Inf NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-8-abdo.dcm_PSNR_10.bmp PSNR: 38.876 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-8-abdo.dcm_PSNR_100.bmp PSNR: 20.496 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-8-abdo.dcm_PSNR_20.bmp PSNR: 34.455 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-8-abdo.dcm_PSNR_30.bmp PSNR: 30.380 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-8-abdo.dcm_PSNR_40.bmp PSNR: 28.445 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-8-abdo.dcm_PSNR_50.bmp PSNR: 26.169 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-8-abdo.dcm_PSNR_60.bmp PSNR: 24.928 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-8-abdo.dcm_PSNR_70.bmp PSNR: 23.346 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-8-abdo.dcm_PSNR_80.bmp PSNR: 22.432 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-8-abdo.dcm_PSNR_90.bmp PSNR: 21.220 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-8-abdo.dcm_RESC_110.bmp PSNR: 10.651 NC: 0.827 
+ CT-MONO2-8-abdo.dcm_RESC_150.bmp PSNR: 7.735 NC: 0.817 
+ CT-MONO2-8-abdo.dcm_RESC_200.bmp PSNR: 8.550 NC: 0.840 
+ CT-MONO2-8-abdo.dcm_RESC_50.bmp 
+ CT-MONO2-8-abdo.dcm_RESC_75.bmp 
+ CT-MONO2-8-abdo.dcm_RESC_90.bmp 
+ CT-MONO2-8-abdo.dcm_RML_10.bmp 
+ CT-MONO2-8-abdo.dcm_RML_100.bmp 
+ CT-MONO2-8-abdo.dcm_RML_20.bmp 
+ CT-MONO2-8-abdo.dcm_RML_30.bmp 
+ CT-MONO2-8-abdo.dcm_RML_40.bmp 
+ CT-MONO2-8-abdo.dcm_RML_50.bmp 
+ CT-MONO2-8-abdo.dcm_RML_60.bmp 
+ CT-MONO2-8-abdo.dcm_RML_70.bmp 
+ CT-MONO2-8-abdo.dcm_RML_80.bmp 
+ CT-MONO2-8-abdo.dcm_RML_90.bmp 
+ CT-MONO2-8-abdo.dcm_RNDDIST_0.95.bmp PSNR: 13.688 NC: 0.697 
+ CT-MONO2-8-abdo.dcm_RNDDIST_1.05.bmp PSNR: 13.461 NC: 0.691 
+ CT-MONO2-8-abdo.dcm_RNDDIST_1.1.bmp PSNR: 13.412 NC: 0.697 
+ CT-MONO2-8-abdo.dcm_RNDDIST_1.bmp PSNR: 13.553 NC: 0.693 
+ CT-MONO2-8-abdo.dcm_ROTCROP_-0.25.bmp 
+ CT-MONO2-8-abdo.dcm_ROTCROP_-0.5.bmp 
+ CT-MONO2-8-abdo.dcm_ROTCROP_-0.75.bmp 
+ CT-MONO2-8-abdo.dcm_ROTCROP_-1.bmp 
+ CT-MONO2-8-abdo.dcm_ROTCROP_-2.bmp 
+ CT-MONO2-8-abdo.dcm_ROTCROP_0.25.bmp 
+ CT-MONO2-8-abdo.dcm_ROTCROP_0.5.bmp 
+ CT-MONO2-8-abdo.dcm_ROTCROP_0.75.bmp 
+ CT-MONO2-8-abdo.dcm_ROTCROP_1.bmp 
+ CT-MONO2-8-abdo.dcm_ROTCROP_2.bmp 
+ CT-MONO2-8-abdo.dcm_ROTSCALE_-0.25.bmp PSNR: 17.243 NC: 0.824 
+ CT-MONO2-8-abdo.dcm_ROTSCALE_-0.5.bmp PSNR: 16.272 NC: 0.808 
+ CT-MONO2-8-abdo.dcm_ROTSCALE_-0.75.bmp PSNR: 15.684 NC: 0.814 
+ CT-MONO2-8-abdo.dcm_ROTSCALE_-1.bmp PSNR: 15.319 NC: 0.821 
+ CT-MONO2-8-abdo.dcm_ROTSCALE_-2.bmp PSNR: 14.095 NC: 0.837 
+ CT-MONO2-8-abdo.dcm_ROTSCALE_0.25.bmp PSNR: 17.465 NC: 0.819 
+ CT-MONO2-8-abdo.dcm_ROTSCALE_0.5.bmp PSNR: 16.494 NC: 0.802 
+ CT-MONO2-8-abdo.dcm_ROTSCALE_0.75.bmp PSNR: 15.834 NC: 0.826 
+ CT-MONO2-8-abdo.dcm_ROTSCALE_1.bmp PSNR: 15.438 NC: 0.828 
+ CT-MONO2-8-abdo.dcm_ROTSCALE_2.bmp PSNR: 14.161 NC: 0.840 
+ CT-MONO2-8-abdo.dcm_ROT_-0.25.bmp PSNR: 17.680 NC: 0.801 
+ CT-MONO2-8-abdo.dcm_ROT_-0.5.bmp PSNR: 15.850 NC: 0.804 
+ CT-MONO2-8-abdo.dcm_ROT_-0.75.bmp PSNR: 14.935 NC: 0.811 
+ CT-MONO2-8-abdo.dcm_ROT_-1.bmp PSNR: 14.261 NC: 0.797 
+ CT-MONO2-8-abdo.dcm_ROT_-2.bmp PSNR: 12.728 NC: 0.826 
+ CT-MONO2-8-abdo.dcm_ROT_0.25.bmp PSNR: 17.261 NC: 0.793 
+ CT-MONO2-8-abdo.dcm_ROT_0.5.bmp PSNR: 16.223 NC: 0.793 
+ CT-MONO2-8-abdo.dcm_ROT_0.75.bmp PSNR: 15.330 NC: 0.804 
+ CT-MONO2-8-abdo.dcm_ROT_1.bmp PSNR: 14.753 NC: 0.805 
+ CT-MONO2-8-abdo.dcm_ROT_10.bmp PSNR: 10.435 NC: 0.840 
+ CT-MONO2-8-abdo.dcm_ROT_15.bmp PSNR: 9.914 NC: 0.840 
+ CT-MONO2-8-abdo.dcm_ROT_2.bmp PSNR: 13.121 NC: 0.840 
+ CT-MONO2-8-abdo.dcm_ROT_30.bmp PSNR: 8.888 NC: 0.840 
+ CT-MONO2-8-abdo.dcm_ROT_45.bmp PSNR: 8.500 NC: 0.840 
+ CT-MONO2-8-abdo.dcm_ROT_5.bmp PSNR: 11.398 NC: 0.840 
+ CT-MONO2-8-abdo.dcm_ROT_90.bmp PSNR: 8.869 NC: 0.802 
+ CT-MONO2-8-abdo.dcm_SS_1.bmp PSNR: 8.761 NC: 0.840 
+ CT-MONO2-8-abdo.dcm_SS_2.bmp PSNR: 8.761 NC: 0.840 
+ CT-MONO2-8-abdo.dcm_SS_3.bmp PSNR: 8.761 NC: 0.840 

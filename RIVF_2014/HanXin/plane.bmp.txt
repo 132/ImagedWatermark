@@ -1,0 +1,87 @@
+ 98.03124477	   0.99946035	 Rut duoc Copyright in UIT	  0.99654261
+ plane_AFFINE_1.bmp	   0.99550616	 Rut duoc Copyright in UIT	  0.99761540
+ plane_AFFINE_2.bmp	   0.98370061	 Rut duoc Copyright in UIT	  0.98623155
+ plane_AFFINE_3.bmp	   0.99926540	 Rut duoc Copyright in UIT	  0.99622944
+ plane_AFFINE_4.bmp	   0.98393644	 Rut duoc Copyright in UIT	  0.96493658
+ plane_AFFINE_5.bmp	   0.99730044	 Rut duoc Copyright in UIT	  0.99430222
+ plane_AFFINE_6.bmp	   0.98605388	 Rut duoc Copyright in UIT	  0.98788931
+ plane_AFFINE_7.bmp	   0.98833767	 Rut duoc Copyright in UIT	  0.96493341
+ plane_AFFINE_8.bmp	   0.98959016	 Rut duoc Copyright in UIT	  0.96674957
+ plane_CONV_1.bmp	   0.88963989	   0.88479718
+ plane_CONV_2.bmp	   0.99839170	 Rut duoc Copyright in UIT	  0.99513628
+ plane_JPEG_100.bmp	   0.99947974	 Rut duoc Copyright in UIT	  0.99924385
+ plane_JPEG_15.bmp	   0.91502262	   0.90982942
+ plane_JPEG_20.bmp	   0.93466608	   0.94547569
+ plane_JPEG_25.bmp	   0.94114599	   0.95040973
+ plane_JPEG_30.bmp	   0.96307231	 Rut duoc Copyright in UIT	  0.96573847
+ plane_JPEG_35.bmp	   0.96870962	 Rut duoc Copyright in UIT	  0.98306408
+ plane_JPEG_40.bmp	   0.96841524	 Rut duoc Copyright in UIT	  0.98568423
+ plane_JPEG_50.bmp	   0.97648441	 Rut duoc Copyright in UIT	  0.99446563
+ plane_JPEG_60.bmp	   0.98614878	 Rut duoc Copyright in UIT	  0.99641299
+ plane_JPEG_70.bmp	   0.98953178	 Rut duoc Copyright in UIT	  0.99541698
+ plane_JPEG_80.bmp	   0.99364277	 Rut duoc Copyright in UIT	  0.99847412
+ plane_JPEG_90.bmp	   0.99646691	 Rut duoc Copyright in UIT	  0.99853770
+ plane_LATESTRNDDIST_0.95.bmp	   0.99547663	 Rut duoc Copyright in UIT	  0.99588025
+ plane_LATESTRNDDIST_1.05.bmp	   0.99340316	 Rut duoc Copyright in UIT	  0.99609122
+ plane_LATESTRNDDIST_1.1.bmp	   0.99446880	 Rut duoc Copyright in UIT	  0.99546406
+ plane_LATESTRNDDIST_1.bmp	   0.99557790	 Rut duoc Copyright in UIT	  0.99281957
+ plane_MEDIAN_3.bmp	   0.99689116	 Rut duoc Copyright in UIT	  0.99689658
+ plane_MEDIAN_5.bmp	   0.99543035	 Rut duoc Copyright in UIT	  0.98788252
+ plane_MEDIAN_7.bmp	   0.99398334	 Rut duoc Copyright in UIT	  0.98495723
+ plane_MEDIAN_9.bmp	   0.99468121	 Rut duoc Copyright in UIT	  0.98771973
+ plane_NOISE_0.bmp	   0.99931183	 Rut duoc Copyright in UIT	  0.99791271
+ plane_NOISE_100.bmp	   0.99552821	 Rut duoc Copyright in UIT	  0.99056037
+ plane_NOISE_20.bmp	   0.99625770	 Rut duoc Copyright in UIT	  0.99328916
+ plane_NOISE_40.bmp	   0.99820998	 Rut duoc Copyright in UIT	  0.99274041
+ plane_NOISE_60.bmp	   0.99727249	 Rut duoc Copyright in UIT	  0.99226306
+ plane_NOISE_80.bmp	   0.99570283	 Rut duoc Copyright in UIT	  0.99015473
+ plane_PSNR_0.bmp	   0.99946035	 Rut duoc Copyright in UIT	  0.99654261
+ plane_PSNR_10.bmp	   0.99948274	 Rut duoc Copyright in UIT	  0.99633800
+ plane_PSNR_100.bmp	   0.99960393	 Rut duoc Copyright in UIT	  0.99482101
+ plane_PSNR_20.bmp	   0.99952278	 Rut duoc Copyright in UIT	  0.99614037
+ plane_PSNR_30.bmp	   0.99958094	 Rut duoc Copyright in UIT	  0.99595032
+ plane_PSNR_40.bmp	   0.99964711	 Rut duoc Copyright in UIT	  0.99576819
+ plane_PSNR_50.bmp	   0.99970805	 Rut duoc Copyright in UIT	  0.99559393
+ plane_PSNR_60.bmp	   0.99974082	 Rut duoc Copyright in UIT	  0.99542634
+ plane_PSNR_70.bmp	   0.99973690	 Rut duoc Copyright in UIT	  0.99526298
+ plane_PSNR_80.bmp	   0.99972460	 Rut duoc Copyright in UIT	  0.99510571
+ plane_PSNR_90.bmp	   0.99968069	 Rut duoc Copyright in UIT	  0.99495839
+ plane_RESC_110.bmp	   0.87490394	   0.75506486
+ plane_RESC_150.bmp	   0.63661136	   0.51012339
+ plane_RESC_200.bmp	   0.57885126	   0.44261797
+ plane_RNDDIST_0.95.bmp	   0.99798113	 Rut duoc Copyright in UIT	  0.99650067
+ plane_RNDDIST_1.05.bmp	   0.99760685	 Rut duoc Copyright in UIT	  0.99883746
+ plane_RNDDIST_1.1.bmp	   0.99771748	 Rut duoc Copyright in UIT	  0.99686577
+ plane_RNDDIST_1.bmp	   0.99784265	 Rut duoc Copyright in UIT	  0.99831248
+ plane_ROTCROP_-0.25.bmp	   0.99751195	 Rut duoc Copyright in UIT	  0.99579864
+ plane_ROTCROP_0.25.bmp	   0.99801670	 Rut duoc Copyright in UIT	  0.99734824
+ plane_ROTSCALE_-0.25.bmp	   0.99927508	 Rut duoc Copyright in UIT	  0.99678552
+ plane_ROTSCALE_-0.5.bmp	   0.99927044	 Rut duoc Copyright in UIT	  0.99731471
+ plane_ROTSCALE_-0.75.bmp	   0.99870377	 Rut duoc Copyright in UIT	  0.99890325
+ plane_ROTSCALE_-1.bmp	   0.99917272	 Rut duoc Copyright in UIT	  0.99800502
+ plane_ROTSCALE_-2.bmp	   0.99931228	 Rut duoc Copyright in UIT	  0.99713633
+ plane_ROTSCALE_0.25.bmp	   0.99934306	 Rut duoc Copyright in UIT	  0.99663729
+ plane_ROTSCALE_0.5.bmp	   0.99905643	 Rut duoc Copyright in UIT	  0.99862160
+ plane_ROTSCALE_0.75.bmp	   0.99920120	 Rut duoc Copyright in UIT	  0.99723472
+ plane_ROTSCALE_1.bmp	   0.99889476	 Rut duoc Copyright in UIT	  0.99888557
+ plane_ROTSCALE_2.bmp	   0.99905382	 Rut duoc Copyright in UIT	  0.99782300
+ plane_ROT_-0.25.bmp	   0.99927330	 Rut duoc Copyright in UIT	  0.99724805
+ plane_ROT_-0.5.bmp	   0.99619475	 Rut duoc Copyright in UIT	  0.99622632
+ plane_ROT_-0.75.bmp	   0.99696728	 Rut duoc Copyright in UIT	  0.99314405
+ plane_ROT_-1.bmp	   0.99326285	 Rut duoc Copyright in UIT	  0.96824667
+ plane_ROT_-2.bmp	   0.96509904	 Rut duoc Copyright in UIT	  0.92913586
+ plane_ROT_0.25.bmp	   0.99747616	 Rut duoc Copyright in UIT	  0.99828738
+ plane_ROT_0.5.bmp	   0.99671801	 Rut duoc Copyright in UIT	  0.99157384
+ plane_ROT_0.75.bmp	   0.99303723	 Rut duoc Copyright in UIT	  0.99661889
+ plane_ROT_1.bmp	   0.99178435	 Rut duoc Copyright in UIT	  0.97820448
+ plane_ROT_10.bmp	   0.79126562	   0.69065424
+ plane_ROT_15.bmp	   0.74885576	   0.57561749
+ plane_ROT_2.bmp	   0.97075120	 Rut duoc Copyright in UIT	  0.93185124
+ plane_ROT_30.bmp	   0.68242238	   0.53968552
+ plane_ROT_45.bmp	   0.77932044	   0.49804690
+ plane_ROT_5.bmp	   0.89274131	 Rut duoc Copyright in UIT	  0.82290317
+ plane_ROT_90.bmp	   0.99820894	 Rut duoc Copyright in UIT	  0.98998780
+ plane_SS_1.bmp	   0.47885845	   0.51208716
+ plane_SS_2.bmp	   0.47885845	   0.51205192
+ plane_SS_3.bmp	   0.47885845	   0.51205192
+ 

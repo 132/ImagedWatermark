@@ -1,0 +1,113 @@
+Truoc attack PSNR: Inf 
+ CT-MONO2-16-brain.dcm_AFFINE_1.bmp PSNR: 18.522 NC: 0.764 
+ CT-MONO2-16-brain.dcm_AFFINE_2.bmp PSNR: 13.574 NC: 0.690 
+ CT-MONO2-16-brain.dcm_AFFINE_3.bmp PSNR: 17.957 NC: 0.752 
+ CT-MONO2-16-brain.dcm_AFFINE_4.bmp PSNR: 13.318 NC: 0.836 
+ CT-MONO2-16-brain.dcm_AFFINE_5.bmp PSNR: 16.520 NC: 0.798 
+ CT-MONO2-16-brain.dcm_AFFINE_6.bmp PSNR: 14.422 NC: 0.777 
+ CT-MONO2-16-brain.dcm_AFFINE_7.bmp PSNR: 14.678 NC: 0.784 
+ CT-MONO2-16-brain.dcm_AFFINE_8.bmp PSNR: 14.902 NC: 0.795 
+ CT-MONO2-16-brain.dcm_CONV_1.bmp PSNR: 10.751 NC: 0.840 
+ CT-MONO2-16-brain.dcm_CONV_2.bmp PSNR: 5.987 NC: 0.677 
+ CT-MONO2-16-brain.dcm_CROP_10.bmp 
+ CT-MONO2-16-brain.dcm_CROP_15.bmp 
+ CT-MONO2-16-brain.dcm_CROP_20.bmp 
+ CT-MONO2-16-brain.dcm_CROP_25.bmp 
+ CT-MONO2-16-brain.dcm_CROP_50.bmp 
+ CT-MONO2-16-brain.dcm_CROP_75.bmp 
+ CT-MONO2-16-brain.dcm_JPEG_100.bmp PSNR: 25.855 NC: 0.701 
+ CT-MONO2-16-brain.dcm_JPEG_15.bmp PSNR: 23.855 NC: 0.840 
+ CT-MONO2-16-brain.dcm_JPEG_20.bmp PSNR: 24.397 NC: 0.840 
+ CT-MONO2-16-brain.dcm_JPEG_25.bmp PSNR: 24.424 NC: 0.840 
+ CT-MONO2-16-brain.dcm_JPEG_30.bmp PSNR: 24.613 NC: 0.840 
+ CT-MONO2-16-brain.dcm_JPEG_35.bmp PSNR: 24.816 NC: 0.839 
+ CT-MONO2-16-brain.dcm_JPEG_40.bmp PSNR: 24.926 NC: 0.840 
+ CT-MONO2-16-brain.dcm_JPEG_50.bmp PSNR: 25.147 NC: 0.840 
+ CT-MONO2-16-brain.dcm_JPEG_60.bmp PSNR: 25.354 NC: 0.837 
+ CT-MONO2-16-brain.dcm_JPEG_70.bmp PSNR: 25.505 NC: 0.836 
+ CT-MONO2-16-brain.dcm_JPEG_80.bmp PSNR: 25.625 NC: 0.826 
+ CT-MONO2-16-brain.dcm_JPEG_90.bmp PSNR: 25.744 NC: 0.831 
+ CT-MONO2-16-brain.dcm_LATESTRNDDIST_0.95.bmp PSNR: 12.997 NC: 0.572 
+ CT-MONO2-16-brain.dcm_LATESTRNDDIST_1.05.bmp PSNR: 12.687 NC: 0.524 
+ CT-MONO2-16-brain.dcm_LATESTRNDDIST_1.1.bmp PSNR: 12.549 NC: 0.525 
+ CT-MONO2-16-brain.dcm_LATESTRNDDIST_1.bmp PSNR: 12.854 NC: 0.527 
+ CT-MONO2-16-brain.dcm_MEDIAN_3.bmp PSNR: 22.988 NC: 0.831 
+ CT-MONO2-16-brain.dcm_MEDIAN_5.bmp PSNR: 23.339 NC: 0.837 
+ CT-MONO2-16-brain.dcm_MEDIAN_7.bmp PSNR: 23.207 NC: 0.838 
+ CT-MONO2-16-brain.dcm_MEDIAN_9.bmp PSNR: 22.954 NC: 0.840 
+ CT-MONO2-16-brain.dcm_NOISE_0.bmp PSNR: 25.866 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-16-brain.dcm_NOISE_100.bmp PSNR: 5.401 NC: 0.647 
+ CT-MONO2-16-brain.dcm_NOISE_20.bmp PSNR: 8.035 NC: 0.668 
+ CT-MONO2-16-brain.dcm_NOISE_40.bmp PSNR: 6.434 NC: 0.600 
+ CT-MONO2-16-brain.dcm_NOISE_60.bmp PSNR: 5.840 NC: 0.615 
+ CT-MONO2-16-brain.dcm_NOISE_80.bmp PSNR: 5.569 NC: 0.635 
+ CT-MONO2-16-brain.dcm_PSNR_0.bmp PSNR: Inf NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-16-brain.dcm_PSNR_10.bmp PSNR: 38.592 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-16-brain.dcm_PSNR_100.bmp PSNR: 20.199 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-16-brain.dcm_PSNR_20.bmp PSNR: 34.157 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-16-brain.dcm_PSNR_30.bmp PSNR: 30.078 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-16-brain.dcm_PSNR_40.bmp PSNR: 28.142 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-16-brain.dcm_PSNR_50.bmp PSNR: 25.866 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-16-brain.dcm_PSNR_60.bmp PSNR: 24.625 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-16-brain.dcm_PSNR_70.bmp PSNR: 23.045 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-16-brain.dcm_PSNR_80.bmp PSNR: 22.132 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-16-brain.dcm_PSNR_90.bmp PSNR: 20.921 NC: 1.000 watermark: trideptraivodoi
+ CT-MONO2-16-brain.dcm_RESC_110.bmp PSNR: 12.996 NC: 0.769 
+ CT-MONO2-16-brain.dcm_RESC_150.bmp PSNR: 8.552 NC: 0.792 
+ CT-MONO2-16-brain.dcm_RESC_200.bmp PSNR: 7.615 NC: 0.805 
+ CT-MONO2-16-brain.dcm_RESC_50.bmp 
+ CT-MONO2-16-brain.dcm_RESC_75.bmp 
+ CT-MONO2-16-brain.dcm_RESC_90.bmp 
+ CT-MONO2-16-brain.dcm_RML_10.bmp 
+ CT-MONO2-16-brain.dcm_RML_100.bmp 
+ CT-MONO2-16-brain.dcm_RML_20.bmp 
+ CT-MONO2-16-brain.dcm_RML_30.bmp 
+ CT-MONO2-16-brain.dcm_RML_40.bmp 
+ CT-MONO2-16-brain.dcm_RML_50.bmp 
+ CT-MONO2-16-brain.dcm_RML_60.bmp 
+ CT-MONO2-16-brain.dcm_RML_70.bmp 
+ CT-MONO2-16-brain.dcm_RML_80.bmp 
+ CT-MONO2-16-brain.dcm_RML_90.bmp 
+ CT-MONO2-16-brain.dcm_RNDDIST_0.95.bmp PSNR: 14.335 NC: 0.551 
+ CT-MONO2-16-brain.dcm_RNDDIST_1.05.bmp PSNR: 13.984 NC: 0.548 
+ CT-MONO2-16-brain.dcm_RNDDIST_1.1.bmp PSNR: 13.829 NC: 0.555 
+ CT-MONO2-16-brain.dcm_RNDDIST_1.bmp PSNR: 14.161 NC: 0.554 
+ CT-MONO2-16-brain.dcm_ROTCROP_-0.25.bmp 
+ CT-MONO2-16-brain.dcm_ROTCROP_-0.5.bmp 
+ CT-MONO2-16-brain.dcm_ROTCROP_-0.75.bmp 
+ CT-MONO2-16-brain.dcm_ROTCROP_-1.bmp 
+ CT-MONO2-16-brain.dcm_ROTCROP_-2.bmp 
+ CT-MONO2-16-brain.dcm_ROTCROP_0.25.bmp 
+ CT-MONO2-16-brain.dcm_ROTCROP_0.5.bmp 
+ CT-MONO2-16-brain.dcm_ROTCROP_0.75.bmp 
+ CT-MONO2-16-brain.dcm_ROTCROP_1.bmp 
+ CT-MONO2-16-brain.dcm_ROTCROP_2.bmp 
+ CT-MONO2-16-brain.dcm_ROTSCALE_-0.25.bmp PSNR: 20.639 NC: 0.764 
+ CT-MONO2-16-brain.dcm_ROTSCALE_-0.5.bmp PSNR: 18.712 NC: 0.744 
+ CT-MONO2-16-brain.dcm_ROTSCALE_-0.75.bmp PSNR: 17.439 NC: 0.763 
+ CT-MONO2-16-brain.dcm_ROTSCALE_-1.bmp PSNR: 16.663 NC: 0.737 
+ CT-MONO2-16-brain.dcm_ROTSCALE_-2.bmp PSNR: 14.715 NC: 0.788 
+ CT-MONO2-16-brain.dcm_ROTSCALE_0.25.bmp PSNR: 20.679 NC: 0.775 
+ CT-MONO2-16-brain.dcm_ROTSCALE_0.5.bmp PSNR: 18.753 NC: 0.744 
+ CT-MONO2-16-brain.dcm_ROTSCALE_0.75.bmp PSNR: 17.473 NC: 0.774 
+ CT-MONO2-16-brain.dcm_ROTSCALE_1.bmp PSNR: 16.697 NC: 0.752 
+ CT-MONO2-16-brain.dcm_ROTSCALE_2.bmp PSNR: 14.757 NC: 0.778 
+ CT-MONO2-16-brain.dcm_ROT_-0.25.bmp PSNR: 19.232 NC: 0.739 
+ CT-MONO2-16-brain.dcm_ROT_-0.5.bmp PSNR: 16.987 NC: 0.743 
+ CT-MONO2-16-brain.dcm_ROT_-0.75.bmp PSNR: 15.639 NC: 0.761 
+ CT-MONO2-16-brain.dcm_ROT_-1.bmp PSNR: 14.717 NC: 0.771 
+ CT-MONO2-16-brain.dcm_ROT_-2.bmp PSNR: 12.688 NC: 0.831 
+ CT-MONO2-16-brain.dcm_ROT_0.25.bmp PSNR: 20.002 NC: 0.736 
+ CT-MONO2-16-brain.dcm_ROT_0.5.bmp PSNR: 17.732 NC: 0.739 
+ CT-MONO2-16-brain.dcm_ROT_0.75.bmp PSNR: 16.376 NC: 0.754 
+ CT-MONO2-16-brain.dcm_ROT_1.bmp PSNR: 15.447 NC: 0.762 
+ CT-MONO2-16-brain.dcm_ROT_10.bmp PSNR: 8.878 NC: 0.841 
+ CT-MONO2-16-brain.dcm_ROT_15.bmp PSNR: 7.673 NC: 0.840 
+ CT-MONO2-16-brain.dcm_ROT_2.bmp PSNR: 12.930 NC: 0.829 
+ CT-MONO2-16-brain.dcm_ROT_30.bmp PSNR: 6.112 NC: 0.840 
+ CT-MONO2-16-brain.dcm_ROT_45.bmp PSNR: 5.855 NC: 0.840 
+ CT-MONO2-16-brain.dcm_ROT_5.bmp PSNR: 10.741 NC: 0.837 
+ CT-MONO2-16-brain.dcm_ROT_90.bmp PSNR: 13.351 NC: 0.837 
+ CT-MONO2-16-brain.dcm_SS_1.bmp PSNR: 4.857 NC: 0.840 
+ CT-MONO2-16-brain.dcm_SS_2.bmp PSNR: 4.857 NC: 0.840 
+ CT-MONO2-16-brain.dcm_SS_3.bmp PSNR: 4.857 NC: 0.840 

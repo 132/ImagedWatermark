@@ -1,0 +1,111 @@
+Truoc attack PSNR: Inf 
+ CR-MONO1-10-chest.dcm_AFFINE_1.bmp PSNR: 23.517 NC: 0.657 
+ CR-MONO1-10-chest.dcm_AFFINE_2.bmp PSNR: 18.812 NC: 0.718 
+ CR-MONO1-10-chest.dcm_AFFINE_3.bmp PSNR: 24.072 NC: 0.623 
+ CR-MONO1-10-chest.dcm_AFFINE_4.bmp PSNR: 19.504 NC: 0.818 
+ CR-MONO1-10-chest.dcm_AFFINE_5.bmp PSNR: 22.417 NC: 0.662 
+ CR-MONO1-10-chest.dcm_AFFINE_6.bmp PSNR: 21.823 NC: 0.670 
+ CR-MONO1-10-chest.dcm_AFFINE_7.bmp PSNR: 22.069 NC: 0.666 
+ CR-MONO1-10-chest.dcm_AFFINE_8.bmp PSNR: 21.795 NC: 0.676 
+ CR-MONO1-10-chest.dcm_CONV_1.bmp PSNR: 8.516 NC: 0.826 
+ CR-MONO1-10-chest.dcm_CONV_2.bmp PSNR: 6.538 NC: 0.562 
+ CR-MONO1-10-chest.dcm_CROP_20.bmp 
+ CR-MONO1-10-chest.dcm_CROP_25.bmp 
+ CR-MONO1-10-chest.dcm_CROP_50.bmp 
+ CR-MONO1-10-chest.dcm_CROP_75.bmp 
+ CR-MONO1-10-chest.dcm_JPEG_100.bmp PSNR: 25.911 NC: 0.680 
+ CR-MONO1-10-chest.dcm_JPEG_15.bmp PSNR: 25.585 NC: 0.840 
+ CR-MONO1-10-chest.dcm_JPEG_20.bmp PSNR: 25.698 NC: 0.839 
+ CR-MONO1-10-chest.dcm_JPEG_25.bmp PSNR: 25.688 NC: 0.839 
+ CR-MONO1-10-chest.dcm_JPEG_30.bmp PSNR: 25.710 NC: 0.832 
+ CR-MONO1-10-chest.dcm_JPEG_35.bmp PSNR: 25.729 NC: 0.831 
+ CR-MONO1-10-chest.dcm_JPEG_40.bmp PSNR: 25.729 NC: 0.831 
+ CR-MONO1-10-chest.dcm_JPEG_50.bmp PSNR: 25.774 NC: 0.834 
+ CR-MONO1-10-chest.dcm_JPEG_60.bmp PSNR: 25.782 NC: 0.815 
+ CR-MONO1-10-chest.dcm_JPEG_70.bmp PSNR: 25.785 NC: 0.817 
+ CR-MONO1-10-chest.dcm_JPEG_80.bmp PSNR: 25.801 NC: 0.804 
+ CR-MONO1-10-chest.dcm_JPEG_90.bmp PSNR: 25.819 NC: 0.740 
+ CR-MONO1-10-chest.dcm_LATESTRNDDIST_0.95.bmp PSNR: 19.189 NC: 0.553 
+ CR-MONO1-10-chest.dcm_LATESTRNDDIST_1.05.bmp PSNR: 18.820 NC: 0.523 
+ CR-MONO1-10-chest.dcm_LATESTRNDDIST_1.1.bmp PSNR: 18.635 NC: 0.529 
+ CR-MONO1-10-chest.dcm_LATESTRNDDIST_1.bmp PSNR: 18.984 NC: 0.536 
+ CR-MONO1-10-chest.dcm_MEDIAN_3.bmp PSNR: 25.375 NC: 0.804 
+ CR-MONO1-10-chest.dcm_MEDIAN_5.bmp PSNR: 25.466 NC: 0.823 
+ CR-MONO1-10-chest.dcm_MEDIAN_7.bmp PSNR: 25.494 NC: 0.836 
+ CR-MONO1-10-chest.dcm_MEDIAN_9.bmp PSNR: 25.508 NC: 0.837 
+ CR-MONO1-10-chest.dcm_NOISE_0.bmp PSNR: 25.919 NC: 0.813 watermark: trideptraivodoi
+ CR-MONO1-10-chest.dcm_NOISE_100.bmp PSNR: 5.953 NC: 0.841 
+ CR-MONO1-10-chest.dcm_NOISE_20.bmp PSNR: 8.239 NC: 0.794 
+ CR-MONO1-10-chest.dcm_NOISE_40.bmp PSNR: 6.734 NC: 0.841 
+ CR-MONO1-10-chest.dcm_NOISE_60.bmp PSNR: 6.292 NC: 0.839 
+ CR-MONO1-10-chest.dcm_NOISE_80.bmp PSNR: 6.082 NC: 0.841 
+ CR-MONO1-10-chest.dcm_PSNR_0.bmp PSNR: Inf NC: 1.000 watermark: trideptraivodoi
+ CR-MONO1-10-chest.dcm_PSNR_10.bmp PSNR: 38.598 NC: 1.000 watermark: trideptraivodoi
+ CR-MONO1-10-chest.dcm_PSNR_100.bmp PSNR: 20.251 NC: 0.745 
+ CR-MONO1-10-chest.dcm_PSNR_20.bmp PSNR: 34.177 NC: 1.000 watermark: trideptraivodoi
+ CR-MONO1-10-chest.dcm_PSNR_30.bmp PSNR: 30.119 NC: 1.000 watermark: trideptraivodoi
+ CR-MONO1-10-chest.dcm_PSNR_40.bmp PSNR: 28.190 NC: 0.813 watermark: trideptraivodoi
+ CR-MONO1-10-chest.dcm_PSNR_50.bmp PSNR: 25.919 NC: 0.813 watermark: trideptraivodoi
+ CR-MONO1-10-chest.dcm_PSNR_60.bmp PSNR: 24.679 NC: 0.813 watermark: trideptraivodoi
+ CR-MONO1-10-chest.dcm_PSNR_70.bmp PSNR: 23.099 NC: 0.782 watermark: trideptraivodoi
+ CR-MONO1-10-chest.dcm_PSNR_80.bmp PSNR: 22.186 NC: 0.782 watermark: trideptraivodoi
+ CR-MONO1-10-chest.dcm_PSNR_90.bmp PSNR: 20.974 NC: 0.766 watermark: trideptraivodoi
+ CR-MONO1-10-chest.dcm_RESC_110.bmp PSNR: 17.600 NC: 0.668 
+ CR-MONO1-10-chest.dcm_RESC_150.bmp PSNR: 12.561 NC: 0.725 
+ CR-MONO1-10-chest.dcm_RESC_200.bmp PSNR: 12.052 NC: 0.741 
+ CR-MONO1-10-chest.dcm_RESC_50.bmp 
+ CR-MONO1-10-chest.dcm_RESC_75.bmp 
+ CR-MONO1-10-chest.dcm_RESC_90.bmp 
+ CR-MONO1-10-chest.dcm_RML_10.bmp 
+ CR-MONO1-10-chest.dcm_RML_100.bmp 
+ CR-MONO1-10-chest.dcm_RML_20.bmp 
+ CR-MONO1-10-chest.dcm_RML_30.bmp 
+ CR-MONO1-10-chest.dcm_RML_40.bmp 
+ CR-MONO1-10-chest.dcm_RML_50.bmp 
+ CR-MONO1-10-chest.dcm_RML_60.bmp 
+ CR-MONO1-10-chest.dcm_RML_70.bmp 
+ CR-MONO1-10-chest.dcm_RML_80.bmp 
+ CR-MONO1-10-chest.dcm_RML_90.bmp 
+ CR-MONO1-10-chest.dcm_RNDDIST_0.95.bmp PSNR: 18.687 NC: 0.554 
+ CR-MONO1-10-chest.dcm_RNDDIST_1.05.bmp PSNR: 18.320 NC: 0.531 
+ CR-MONO1-10-chest.dcm_RNDDIST_1.1.bmp PSNR: 18.144 NC: 0.539 
+ CR-MONO1-10-chest.dcm_RNDDIST_1.bmp PSNR: 18.516 NC: 0.532 
+ CR-MONO1-10-chest.dcm_ROTCROP_-0.25.bmp 
+ CR-MONO1-10-chest.dcm_ROTCROP_-0.5.bmp 
+ CR-MONO1-10-chest.dcm_ROTCROP_-0.75.bmp 
+ CR-MONO1-10-chest.dcm_ROTCROP_-1.bmp 
+ CR-MONO1-10-chest.dcm_ROTCROP_-2.bmp 
+ CR-MONO1-10-chest.dcm_ROTCROP_0.25.bmp 
+ CR-MONO1-10-chest.dcm_ROTCROP_0.5.bmp 
+ CR-MONO1-10-chest.dcm_ROTCROP_0.75.bmp 
+ CR-MONO1-10-chest.dcm_ROTCROP_1.bmp 
+ CR-MONO1-10-chest.dcm_ROTCROP_2.bmp 
+ CR-MONO1-10-chest.dcm_ROTSCALE_-0.25.bmp PSNR: 25.692 NC: 0.642 
+ CR-MONO1-10-chest.dcm_ROTSCALE_-0.5.bmp PSNR: 25.477 NC: 0.623 
+ CR-MONO1-10-chest.dcm_ROTSCALE_-0.75.bmp PSNR: 25.218 NC: 0.637 
+ CR-MONO1-10-chest.dcm_ROTSCALE_-1.bmp PSNR: 24.916 NC: 0.620 
+ CR-MONO1-10-chest.dcm_ROTSCALE_-2.bmp PSNR: 23.573 NC: 0.616 
+ CR-MONO1-10-chest.dcm_ROTSCALE_0.25.bmp PSNR: 25.681 NC: 0.645 
+ CR-MONO1-10-chest.dcm_ROTSCALE_0.5.bmp PSNR: 25.439 NC: 0.605 
+ CR-MONO1-10-chest.dcm_ROTSCALE_0.75.bmp PSNR: 25.122 NC: 0.625 
+ CR-MONO1-10-chest.dcm_ROTSCALE_1.bmp PSNR: 24.748 NC: 0.613 
+ CR-MONO1-10-chest.dcm_ROTSCALE_2.bmp PSNR: 23.041 NC: 0.592 
+ CR-MONO1-10-chest.dcm_ROT_-0.25.bmp PSNR: 23.777 NC: 0.583 
+ CR-MONO1-10-chest.dcm_ROT_-0.5.bmp PSNR: 22.100 NC: 0.661 
+ CR-MONO1-10-chest.dcm_ROT_-0.75.bmp PSNR: 20.867 NC: 0.674 
+ CR-MONO1-10-chest.dcm_ROT_-1.bmp PSNR: 19.901 NC: 0.704 
+ CR-MONO1-10-chest.dcm_ROT_-2.bmp PSNR: 17.348 NC: 0.776 
+ CR-MONO1-10-chest.dcm_ROT_0.25.bmp PSNR: 24.680 NC: 0.656 
+ CR-MONO1-10-chest.dcm_ROT_0.5.bmp PSNR: 22.938 NC: 0.617 
+ CR-MONO1-10-chest.dcm_ROT_0.75.bmp PSNR: 21.529 NC: 0.677 
+ CR-MONO1-10-chest.dcm_ROT_1.bmp PSNR: 20.405 NC: 0.718 
+ CR-MONO1-10-chest.dcm_ROT_10.bmp PSNR: 11.652 NC: 0.839 
+ CR-MONO1-10-chest.dcm_ROT_15.bmp PSNR: 10.451 NC: 0.840 
+ CR-MONO1-10-chest.dcm_ROT_2.bmp PSNR: 17.469 NC: 0.785 
+ CR-MONO1-10-chest.dcm_ROT_30.bmp PSNR: 8.920 NC: 0.840 
+ CR-MONO1-10-chest.dcm_ROT_45.bmp PSNR: 8.572 NC: 0.840 
+ CR-MONO1-10-chest.dcm_ROT_5.bmp PSNR: 14.056 NC: 0.840 
+ CR-MONO1-10-chest.dcm_ROT_90.bmp PSNR: 12.912 NC: 0.840 
+ CR-MONO1-10-chest.dcm_SS_1.bmp PSNR: 5.494 NC: 0.840 
+ CR-MONO1-10-chest.dcm_SS_2.bmp PSNR: 5.494 NC: 0.840 
+ CR-MONO1-10-chest.dcm_SS_3.bmp PSNR: 5.494 NC: 0.840 

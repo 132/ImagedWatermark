@@ -1,0 +1,57 @@
+%OI = imread('DataDacBiet\lena.bmp');
+%watermark=randi([0 1],1,80000/2); % random watermark theo bpp
+%watermark= watermark(:);
+function [MaxPSNR_Cross, MaxPSNR_Dot, WI_Cross, WI_Dot, T_Cross, T_Dot, ABCD, ABCD_Dot] = BangChinhThuc(OI,watermark)
+watermark_LSB=randi([0 1],1,51); % random watermark theo bpp
+watermark_LSB = watermark_LSB(:);
+Denta = 1;
+m = 1;
+watermark_Cross = [watermark_LSB; watermark];
+watermark_Dot = [watermark_LSB; watermark];
+
+[c_Cross,r_Cross,uh_Cross,u_Cross] = crossset(OI);
+[PhanLoai] = bin_PhanLoai(c_Cross,r_Cross,uh_Cross,u_Cross, watermark_Cross);
+[ABCD Histogram] = bin_CaiTien_TuDOng_XaiDuoc(c_Cross,r_Cross,uh_Cross,u_Cross, watermark_Cross, PhanLoai(1));
+
+        
+Am1_Temp = ABCD(1,1);
+Am2_Temp = ABCD(2,1);
+Duong1_Temp = ABCD(3,1);
+Duong2_Temp = ABCD(4,1);
+%if 
+[WI_Cross_Temp size_W_Cross KEY_Cross_Temp Check_Cross_Temp S] = embedding__TuDong_Cross(Denta, m, Am1_Temp, Am2_Temp, Duong1_Temp, Duong2_Temp, OI ,watermark_Cross,c_Cross,r_Cross,uh_Cross,u_Cross, watermark_LSB);
+MaxPSNR_Cross = PSNR(WI_Cross_Temp,OI);
+WI_Cross = WI_Cross_Temp;
+KEY_Cross = KEY_Cross_Temp;
+Check_Cross = Check_Cross_Temp;
+Am1_Cross = Am1_Temp;
+Am2_Cross = Am2_Temp;
+Duong1_Cross = Duong1_Temp;
+Duong2_Cross = Duong2_Temp;
+
+T_Cross = [Am1_Cross; Am2_Cross; Duong1_Cross; Duong2_Cross];
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[c_Dot,r_Dot,uh_Dot,u_Dot] = dotset(WI_Cross);
+[PhanLoai_Dot] = bin_PhanLoai(c_Dot,r_Dot,uh_Dot,u_Dot, watermark_Dot);
+[ABCD_Dot Histogram_Dot] = bin_CaiTien_TuDOng_XaiDuoc(c_Dot,r_Dot,uh_Dot,u_Dot,watermark_Dot, PhanLoai_Dot(1));
+MaxPSNR_Dot = 0;
+          
+Am1_Temp = ABCD_Dot(1,1);
+Am2_Temp = ABCD_Dot(2,1);
+Duong1_Temp = ABCD_Dot(3,1);
+Duong2_Temp = ABCD_Dot(4,1);
+
+[WI_Dot_Temp size_W_Dot KEY_Dot_Temp Check_Dot_Temp] = embedding__TuDong_Cross(Denta, m, Am1_Temp, Am2_Temp, Duong1_Temp, Duong2_Temp, WI_Cross ,watermark_Dot,c_Dot,r_Dot,uh_Dot,u_Dot,watermark_LSB);
+
+MaxPSNR_Dot = PSNR(WI_Dot_Temp,OI);
+WI_Dot = WI_Dot_Temp;
+KEY_Dot = KEY_Dot_Temp;
+Check_Dot = Check_Dot_Temp;
+Am1_Dot = Am1_Temp;
+Am2_Dot = Am2_Temp;
+Duong1_Dot = Duong1_Temp;
+Duong2_Dot = Duong2_Temp;
+
+
+T_Dot = [Am1_Dot; Am2_Dot; Duong1_Dot; Duong2_Dot];
+end

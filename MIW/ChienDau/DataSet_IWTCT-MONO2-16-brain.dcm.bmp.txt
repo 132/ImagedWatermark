@@ -1,0 +1,10 @@
+
+ average filtering NC:   0.82770613 PSNR:  23.57034269
+ motion blur NC:   0.75760915 PSNR:  20.52445023
+ hisogram equa NC:   0.65312550 PSNR:  17.21993121
+ median fileterNC:   0.79375338 PSNR:  24.02027276 
+ Sharpen NC:   0.51746024 PSNR:  35.28694382
+ resize NC:   0.82365045 PSNR:  21.52874244
+ rotation NC:   0.79315178 PSNR:   9.67819375
+ contrast adjustment NC:   0.70963185 PSNR:  17.01857326
+ Crop1/4 NC:   0.84032877 PSNR:   4.97855877

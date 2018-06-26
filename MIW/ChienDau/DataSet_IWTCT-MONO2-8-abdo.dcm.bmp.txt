@@ -1,0 +1,10 @@
+
+ average filtering NC:   0.84032877 PSNR:  19.60401306
+ motion blur NC:   0.82725623 PSNR:  18.43653031
+ hisogram equa NC:   0.83891396 PSNR:   6.21359701
+ median fileterNC:   0.80602701 PSNR:  17.53524344 
+ Sharpen NC:   0.83766304 PSNR:  29.62609917
+ resize NC:   0.81229620 PSNR:  18.31598668
+ rotation NC:   0.81302752 PSNR:   9.04732828
+ contrast adjustment NC:   1.00000000 Rut duoc-trideptraivodoi 	PSNR:  24.30085172
+ Crop1/4 NC:   0.80602701 PSNR:  12.61437180

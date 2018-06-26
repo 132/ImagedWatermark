@@ -1,0 +1,87 @@
+ 82.71374960	   0.99897813	 Rut duoc Copyright in UIT	  0.99428696
+ lena_AFFINE_1.bmp	   0.99193327	 Rut duoc Copyright in UIT	  0.98888002
+ lena_AFFINE_2.bmp	   0.96060934	 Rut duoc Copyright in UIT	  0.96548010
+ lena_AFFINE_3.bmp	   0.98777906	 Rut duoc Copyright in UIT	  0.98903556
+ lena_AFFINE_4.bmp	   0.96064748	 Rut duoc Copyright in UIT	  0.93609104
+ lena_AFFINE_5.bmp	   0.97858144	 Rut duoc Copyright in UIT	  0.97668982
+ lena_AFFINE_6.bmp	   0.95183748	 Rut duoc Copyright in UIT	  0.93868184
+ lena_AFFINE_7.bmp	   0.96083309	 Rut duoc Copyright in UIT	  0.96553552
+ lena_AFFINE_8.bmp	   0.96017899	 Rut duoc Copyright in UIT	  0.95175848
+ lena_CONV_1.bmp	   0.98213919	 Rut duoc Copyright in UIT	  0.99085492
+ lena_CONV_2.bmp	   0.99025454	 Rut duoc Copyright in UIT	  0.97970079
+ lena_JPEG_100.bmp	   0.99775292	 Rut duoc Copyright in UIT	  0.99456160
+ lena_JPEG_15.bmp	   0.97044141	   0.97517728
+ lena_JPEG_20.bmp	   0.97779153	 Rut duoc Copyright in UIT	  0.98184074
+ lena_JPEG_25.bmp	   0.97501413	 Rut duoc Copyright in UIT	  0.98346080
+ lena_JPEG_30.bmp	   0.98747389	 Rut duoc Copyright in UIT	  0.99042772
+ lena_JPEG_35.bmp	   0.98387987	 Rut duoc Copyright in UIT	  0.99343719
+ lena_JPEG_40.bmp	   0.98835819	 Rut duoc Copyright in UIT	  0.98875249
+ lena_JPEG_50.bmp	   0.99423662	 Rut duoc Copyright in UIT	  0.99560074
+ lena_JPEG_60.bmp	   0.99697787	 Rut duoc Copyright in UIT	  0.99736896
+ lena_JPEG_70.bmp	   0.99819464	 Rut duoc Copyright in UIT	  0.99640649
+ lena_JPEG_80.bmp	   0.99811844	 Rut duoc Copyright in UIT	  0.99553874
+ lena_JPEG_90.bmp	   0.99642593	 Rut duoc Copyright in UIT	  0.99249141
+ lena_LATESTRNDDIST_0.95.bmp	   0.98447041	 Rut duoc Copyright in UIT	  0.97176026
+ lena_LATESTRNDDIST_1.05.bmp	   0.98704132	 Rut duoc Copyright in UIT	  0.98676791
+ lena_LATESTRNDDIST_1.1.bmp	   0.99000634	 Rut duoc Copyright in UIT	  0.98609828
+ lena_LATESTRNDDIST_1.bmp	   0.98625909	 Rut duoc Copyright in UIT	  0.98590469
+ lena_MEDIAN_3.bmp	   0.99821375	 Rut duoc Copyright in UIT	  0.99750655
+ lena_MEDIAN_5.bmp	   0.99853016	 Rut duoc Copyright in UIT	  0.99676977
+ lena_MEDIAN_7.bmp	   0.99603893	 Rut duoc Copyright in UIT	  0.99857709
+ lena_MEDIAN_9.bmp	   0.99400695	 Rut duoc Copyright in UIT	  0.99837245
+ lena_NOISE_0.bmp	   0.99899815	 Rut duoc Copyright in UIT	  0.99396912
+ lena_NOISE_100.bmp	   0.98381452	 Rut duoc Copyright in UIT	  0.97497976
+ lena_NOISE_20.bmp	   0.98305378	   0.96291435
+ lena_NOISE_40.bmp	   0.98306839	   0.97550881
+ lena_NOISE_60.bmp	   0.98435803	   0.98208463
+ lena_NOISE_80.bmp	   0.98834385	   0.96045530
+ lena_PSNR_0.bmp	   0.99897813	 Rut duoc Copyright in UIT	  0.99428696
+ lena_PSNR_10.bmp	   0.99895402	 Rut duoc Copyright in UIT	  0.99427680
+ lena_PSNR_100.bmp	   0.99910116	 Rut duoc Copyright in UIT	  0.99368741
+ lena_PSNR_20.bmp	   0.99898805	 Rut duoc Copyright in UIT	  0.99426652
+ lena_PSNR_30.bmp	   0.99895265	 Rut duoc Copyright in UIT	  0.99410394
+ lena_PSNR_40.bmp	   0.99896690	 Rut duoc Copyright in UIT	  0.99403924
+ lena_PSNR_50.bmp	   0.99899815	 Rut duoc Copyright in UIT	  0.99396912
+ lena_PSNR_60.bmp	   0.99903573	 Rut duoc Copyright in UIT	  0.99389429
+ lena_PSNR_70.bmp	   0.99908048	 Rut duoc Copyright in UIT	  0.99383177
+ lena_PSNR_80.bmp	   0.99910591	 Rut duoc Copyright in UIT	  0.99376540
+ lena_PSNR_90.bmp	   0.99910823	 Rut duoc Copyright in UIT	  0.99371144
+ lena_RESC_110.bmp	   0.82134710	   0.72237902
+ lena_RESC_150.bmp	   0.60993030	   0.48098548
+ lena_RESC_200.bmp	   0.55109159	   0.43355981
+ lena_RNDDIST_0.95.bmp	   0.99008229	 Rut duoc Copyright in UIT	  0.98603231
+ lena_RNDDIST_1.05.bmp	   0.98502975	 Rut duoc Copyright in UIT	  0.97844311
+ lena_RNDDIST_1.1.bmp	   0.98744251	 Rut duoc Copyright in UIT	  0.98833411
+ lena_RNDDIST_1.bmp	   0.99169892	 Rut duoc Copyright in UIT	  0.99072090
+ lena_ROTCROP_-0.25.bmp	   0.99264360	 Rut duoc Copyright in UIT	  0.99436813
+ lena_ROTCROP_0.25.bmp	   0.99479083	 Rut duoc Copyright in UIT	  0.99393589
+ lena_ROTSCALE_-0.25.bmp	   0.98832438	 Rut duoc Copyright in UIT	  0.98815086
+ lena_ROTSCALE_-0.5.bmp	   0.98744734	 Rut duoc Copyright in UIT	  0.99177487
+ lena_ROTSCALE_-0.75.bmp	   0.99264457	 Rut duoc Copyright in UIT	  0.98497744
+ lena_ROTSCALE_-1.bmp	   0.98794648	 Rut duoc Copyright in UIT	  0.98544298
+ lena_ROTSCALE_-2.bmp	   0.99043489	 Rut duoc Copyright in UIT	  0.98679560
+ lena_ROTSCALE_0.25.bmp	   0.99085272	 Rut duoc Copyright in UIT	  0.99109171
+ lena_ROTSCALE_0.5.bmp	   0.99154439	 Rut duoc Copyright in UIT	  0.99041896
+ lena_ROTSCALE_0.75.bmp	   0.98606075	 Rut duoc Copyright in UIT	  0.99463284
+ lena_ROTSCALE_1.bmp	   0.98941252	 Rut duoc Copyright in UIT	  0.98732315
+ lena_ROTSCALE_2.bmp	   0.98819757	 Rut duoc Copyright in UIT	  0.99047938
+ lena_ROT_-0.25.bmp	   0.98699375	 Rut duoc Copyright in UIT	  0.98832807
+ lena_ROT_-0.5.bmp	   0.97516768	 Rut duoc Copyright in UIT	  0.97495408
+ lena_ROT_-0.75.bmp	   0.97749696	 Rut duoc Copyright in UIT	  0.98002407
+ lena_ROT_-1.bmp	   0.96483612	 Rut duoc Copyright in UIT	  0.96174574
+ lena_ROT_-2.bmp	   0.93268087	 Rut duoc Copyright in UIT	  0.90074964
+ lena_ROT_0.25.bmp	   0.98805382	 Rut duoc Copyright in UIT	  0.98559876
+ lena_ROT_0.5.bmp	   0.98622944	 Rut duoc Copyright in UIT	  0.96896478
+ lena_ROT_0.75.bmp	   0.97532267	 Rut duoc Copyright in UIT	  0.98912204
+ lena_ROT_1.bmp	   0.95942014	 Rut duoc Copyright in UIT	  0.97019854
+ lena_ROT_10.bmp	   0.75222071	   0.68786564
+ lena_ROT_15.bmp	   0.73753157	   0.56820876
+ lena_ROT_2.bmp	   0.92519680	 Rut duoc Copyright in UIT	  0.91806716
+ lena_ROT_30.bmp	   0.65577573	   0.52329123
+ lena_ROT_45.bmp	   0.77114562	   0.49600277
+ lena_ROT_5.bmp	   0.83809341	   0.77573847
+ lena_ROT_90.bmp	   0.99394142	 Rut duoc Copyright in UIT	  0.99348596
+ lena_SS_1.bmp	   0.47885845	   0.47120892
+ lena_SS_2.bmp	   0.47885845	   0.47126299
+ lena_SS_3.bmp	   0.47885845	   0.47126299
+ 

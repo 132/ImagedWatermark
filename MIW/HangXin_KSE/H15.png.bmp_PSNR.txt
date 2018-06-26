@@ -1,0 +1,10 @@
+
+ Bpp: 5000.000 Bpp: 5000.000 - 62.117
+ Bpp: 10000.000 Bpp: 10000.000 - 58.678
+ Bpp: 20000.000 Bpp: 20000.000 - 55.079
+ Bpp: 30000.000 Bpp: 30000.000 - 52.783
+ Bpp: 40000.000 Bpp: 40000.000 - 50.948
+ Bpp: 50000.000 BinAmDot emptyBpp: 50000.000 - 0.000
+ Bpp: 60000.000 VuaCross emptyVuaDot emptyBpp: 60000.000 - 0.000
+ Bpp: 70000.000 VuaCross emptyVuaDot emptyBpp: 70000.000 - 0.000
+ Bpp: 80000.000 VuaCross emptyVuaDot emptyBpp: 80000.000 - 0.000
